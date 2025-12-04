@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack Java`**
 
-Me chamo Elton Moura Barbosa, tenho 21 anos e sou natural do Acre. Atualmente, estou cursando Engenharia de Software e faço cursos externos para me especializar cada vez mais em tecnologias back-end como Java
+Me chamo Elton Moura Barbosa, tenho 21 anos e sou natural do Acre. Atualmente curso Engenharia de Software e me dedico continuamente ao aprendizado por meio de cursos externos e projetos práticos.
+Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo soluções que gerem impacto real.
 
 <p align="left">
     <a href="https://github.com/cinderDesenv?tab=repositories&sort=stargazers">
@@ -113,3 +114,17 @@ Me chamo Elton Moura Barbosa, tenho 21 anos e sou natural do Acre. Atualmente, e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
+
+---
+
+### 📚 Atualmente focado em:
+- Angular e TypeScript
+- Java + Spring Boot
+- SQL e boas práticas de banco de dados
+- Arquitetura de software e clean code
+
+---
+
+### 🎯 O que estou buscando:
+- Participar de projetos reais
+- Aperfeiçoar conhecimentos
