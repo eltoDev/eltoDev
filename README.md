@@ -115,6 +115,9 @@ Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
+<br>
+<br>
+
 ---
 
 ### 📚 Atualmente focado em:
@@ -123,6 +126,8 @@ Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo 
 - SQL e boas práticas de banco de dados
 - Arquitetura de software e clean code
 
+<br>
+<br>
 ---
 
 ### 🎯 O que estou buscando:
