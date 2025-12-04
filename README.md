@@ -27,6 +27,30 @@ Me chamo Elton Moura Barbosa, tenho 21 anos e sou natural do Acre. Atualmente, e
 
 <img 
     align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -67,37 +91,25 @@ Me chamo Elton Moura Barbosa, tenho 21 anos e sou natural do Acre. Atualmente, e
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-    <img align="left"
-         alt="Github Stats"
-         heigth="200"
-         style="padding right:18px;"
-         src="https://github-readme-stats.vercel.app/api?username=cinderDesenv&show_icons=true&theme=cobalt&include_all_commits-true&locale-pt-br"
-     />
-    <img
-        align="left"
-        alt="Github Stats"
-        heigth="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinderDesenv&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
-</p>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
