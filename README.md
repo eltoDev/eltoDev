@@ -59,11 +59,11 @@ Me chamo Elton Moura Barbosa, tenho 21 anos e sou natural do Acre. Atualmente, e
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Angular"
+    title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 <img 
     align="left" 
