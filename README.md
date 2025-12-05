@@ -28,6 +28,8 @@ Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo 
 
 <br>
 
+---
+
 ### 🗿 Front-end
 
 <img 
@@ -74,6 +76,8 @@ Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo 
 <br>
 
 ### ☕ Back-end
+
+---
 
 <img 
     align="left" 
