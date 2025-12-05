@@ -26,6 +26,11 @@ Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo 
 
 ### 🤖 Linguagens e Tecnologias
 
+<br>
+
+### FRONT END
+
+<br>
 <img 
     align="left" 
     alt="HTML"
@@ -66,6 +71,12 @@ Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
+
+<br>
+
+### BACK END
+
+<br>
 <img 
     align="left" 
     alt="Java" 
