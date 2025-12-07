@@ -1,6 +1,6 @@
 ## 🗿 Elton Barbosa
 
-**`Desenvolvedor FullStack Java`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Elton Moura Barbosa, tenho 21 anos e sou natural do Acre. Atualmente curso Engenharia de Software e me dedico continuamente ao aprendizado por meio de cursos externos e projetos práticos.
 Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo soluções que gerem impacto real.
