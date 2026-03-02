@@ -97,7 +97,7 @@ I seek to evolve as a developer, exploring modern technologies and building solu
 ---
 
 ### 📚 Currently focused on:
-- Angular and TypeScript
+- React and TypeScript
 - Java + Spring Boot
 - SQL and best database practices
 - Software architecture and clean code
